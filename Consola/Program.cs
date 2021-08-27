@@ -10,6 +10,9 @@ namespace Consola
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola _Mundo");
+            Console.ReadKey();
+
         }
     }
 }
